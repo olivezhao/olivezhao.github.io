@@ -1,1 +1,7 @@
-{"name":"Olive.blog","tagline":"olive test blog","body":"# olive.blog\r\nolive test blog\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "天书奇谈",
+  "tagline": "协议号机制",
+  "body": "## mina框架\r\n## 自定义数据\r\n## 数据验证",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
