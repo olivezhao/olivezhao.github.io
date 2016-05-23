@@ -32,7 +32,7 @@ disqus:
   shortname: OliveZhao
 
 # 主题设置，自动激活某个标签
-active: 关于
+active: 滴答
 
 # 首页除了最新文章外显示分类
 cates: 
