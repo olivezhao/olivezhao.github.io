@@ -26,8 +26,6 @@ layout: base
                   <table class="table table-bordered">
                     <tbody>
                       <tr><td style="width:80px;">评分</td><td>{{ movie.vote }}</td></tr>
-                      <tr><td>导演</td><td>{{ movie.director }}</td></tr>
-					  <tr><td>主演</td><td>{{ movie.stars }}</td></tr>
                       <tr><td>语言</td><td>{{ movie.language }}</td></tr>
                       <tr>
                         <td>链接</td><td>
@@ -42,7 +40,11 @@ layout: base
                             <span class="label label-default">{{ movie.status }}</span>
                           {% endif %}
                         </td></tr>
+					  {% if movie.status == '看过' %}
+					  <tr><td>日期</td><td>{{ movie.date }}</td></tr>
+					  <tr><td>地点</td><td>{{ movie.place }}</td></tr>
                       <tr><td>评论</td><td>{{ movie.description }}</td></tr>
+					  {% endif %}
                     </tbody>
                   </table>
                 </div>
