@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Jekyll使用文档
+title: Jekyll使用文档-Variables
 category: 笔记
 tags:
 keywords: 笔记,2017,Jekyll
