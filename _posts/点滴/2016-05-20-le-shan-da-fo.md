@@ -2,8 +2,8 @@
 layout: post
 title: 小哇的耳垂也很长
 category: 滴答
-tags: 
-keywords: 
+tags: 照片
+keywords: 四川之旅
 description: 
 ---
 
