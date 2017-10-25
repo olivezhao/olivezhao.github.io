@@ -2,7 +2,7 @@
 layout: post
 title: 小哇的毕业旅行
 category: 滴答
-tags: 
+tags: 照片
 keywords: 
 description: 
 ---

@@ -2,7 +2,7 @@
 layout: note
 title: Jekyll使用文档-Variables
 category: 笔记
-tags:
+tags: markdown
 keywords: 笔记,2017,Jekyll
 description: 
 ---

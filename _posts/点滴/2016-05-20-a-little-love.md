@@ -2,7 +2,7 @@
 layout: post
 title: 时钟的每次滴答，都是我对你的想念
 category: 滴答
-tags: 
+tags: 照片
 keywords: 
 description: 
 ---
