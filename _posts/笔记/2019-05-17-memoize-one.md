@@ -9,8 +9,6 @@ description:
 
 `引用文章来源:https://www.npmjs.com/package/memoize-one`
 
-# memoize-one
-
 <a name="1sdva"></a>
 # memoize-one
 A memoization library that only caches the result of the most recent arguments.
